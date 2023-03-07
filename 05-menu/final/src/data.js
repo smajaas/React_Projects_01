@@ -71,5 +71,13 @@ const menu = [
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: 'paneer butter masala',
+    category: 'dinner',
+    price: 24.99,
+    img: './images/item-11.jpg',
+    desc: `Butter paneer is made of onion, tomato, spices, cream, kasuri methi leaves. Never miss the abundant of butter.`,
+  },
 ];
 export default menu;
